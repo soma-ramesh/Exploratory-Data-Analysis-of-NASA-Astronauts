@@ -79,3 +79,37 @@ The following Power BI features were incorporated.
 
 👉 **Kalpana Chawla** spent **734hr** of Time in Space.
 
+
+
+
+
+
+![Astronauts_page-0006](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/54b0bbc7-6401-44d3-8fd8-e225940271fa)
+
+👉 From 1959 - 2009 Data, **NASA** selected a total of **357** Astronauts in years as different groups (20 groups upto 2009) for different Space Missions.
+
+
+👉 A total of  340  American Astronauts, **Jeffrey N. Williams**, a **North American Astronaut** has spent most of the time in space i.e **12818hr** of time in space.
+
+
+
+
+
+
+
+![Astronauts_page-0007](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/3eb017f8-353c-4d38-a204-667a23a59d74)
+
+👉 Out of  **357**  Astronauts, **211** i.e.  59.10% of the Astronauts served in military and the rest are civilians.
+
+👉  Out of **50** Female Astronauts, **13** served in military.
+
+👉  Out of **307** Male Astronauts, **198** served in military.
+
+
+
+
+
+
+
+
+
