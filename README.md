@@ -46,4 +46,23 @@ The following Power BI features were incorporated.
 6. **Total Missions** = CALCULATE(SUM(astronauts_Kaggle[Space Flights]))
 
 # Key Insights:
-(https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/blob/main/Astronauts_page-0002.jpg)
+![Astronauts_page-0002](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/2bfad1b2-47af-4529-b91a-4a9e9538e412)
+👉 We can see from the line plot above 1975 there is a sudden rise in the number of astronauts, similar to 1996.
+
+
+
+
+
+
+![Astronauts_page-0003](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/e7ac5aac-730b-49d6-b413-d73afc5182ff)
+
+👉 From the above barplot, we can see that Two Astronauts **Franklin R. Chang-Diaz** and **Jerry L.Rose** took 7 times Filghts to Space and interestingly both are **North American Astronauts**.
+
+
+
+
+
+
+![Astronauts_page-0004](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/f2b925e8-8812-472b-ba52-d4342a934f51)
+
+
