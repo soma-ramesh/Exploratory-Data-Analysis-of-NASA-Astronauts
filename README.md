@@ -62,4 +62,20 @@ The following Power BI features were incorporated.
 
 
 
+![Astronauts_page-0004](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/e3b429e6-0ba6-4287-9f60-0eb10ea14b44)
+👉 From the above report, Pie Chart shows the count of **Male** Astronauts from the different continents. Out of **307 Male Astronauts** approx. **94.46%** are **North Americans**.
+
+
+
+
+
+
+![Astronauts_page-0005](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/250a85a4-1436-46f5-8ce1-ee528550a2d4)
+👉 From the above report, Pie Chart shows the count of **Female** Astronauts from only two continents i.e **North America** and **Asia**. Out of **50 Female Astronauts**  **96%** are **North Americans**.
+
+
+👉 **Asian** Female Astronauts are **Shannon W.Lucid (China)** and **Kalpana Chawla (India)**.
+
+
+👉 **Kalpana Chawla** spent **734hr** of Time in Space.
 
