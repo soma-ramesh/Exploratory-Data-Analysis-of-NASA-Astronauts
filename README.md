@@ -17,3 +17,32 @@ This project is to analyze and derive the key insights, which are very interesti
 3. What subject did the most astronauts major in at college❓
 4. Have most astronauts served in the military❓ Which branch❓ What rank did they achieve❓
 5. How many astronauts selected per year❓
+
+-----
+
+## Skills Used:
+The following Power BI features were incorporated.
+1. Data Extraction
+2. Data Transformation
+3. Data Loading
+4. Dax
+5. Date Table (New Table)
+6. Measures
+7. Data Model
+8. Report
+9. Slicers
+10. Dashboard
+11. Bookmarks
+
+---
+
+## DAX 
+
+1. **Total Astronauts** = COUNT(astronauts_Kaggle[Name])
+2. **Male** = CALCULATE(COUNT(astronauts_Kaggle[Name]), (astronauts_Kaggle[Gender] = "Male"))
+3. **Female** = CALCULATE(COUNT(astronauts_Kaggle[Name]), (astronauts_Kaggle[Gender] = "Female"))
+4. **Active** = CALCULATE(COUNT(astronauts_Kaggle[Name]),(astronauts_Kaggle[Status] = "Active"))
+5. **Retire**d = CALCULATE(COUNT(astronauts_Kaggle[Name]),(astronauts_Kaggle[Status] = "Retired"))
+6. **Total Missions** = CALCULATE(SUM(astronauts_Kaggle[Space Flights]))
+
+
