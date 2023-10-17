@@ -45,4 +45,5 @@ The following Power BI features were incorporated.
 5. **Retire**d = CALCULATE(COUNT(astronauts_Kaggle[Name]),(astronauts_Kaggle[Status] = "Retired"))
 6. **Total Missions** = CALCULATE(SUM(astronauts_Kaggle[Space Flights]))
 
-
+# Key Insights:
+(https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/blob/main/Astronauts_page-0002.jpg)
