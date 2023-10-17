@@ -44,8 +44,12 @@ The following Power BI features were incorporated.
 4. **Active** = CALCULATE(COUNT(astronauts_Kaggle[Name]),(astronauts_Kaggle[Status] = "Active"))
 5. **Retire**d = CALCULATE(COUNT(astronauts_Kaggle[Name]),(astronauts_Kaggle[Status] = "Retired"))
 6. **Total Missions** = CALCULATE(SUM(astronauts_Kaggle[Space Flights]))
+----
+
+
 
 # Key Insights:
+
 ![Astronauts_page-0002](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/2bfad1b2-47af-4529-b91a-4a9e9538e412)
 👉 We can see from the line plot above 1975 there is a sudden rise in the number of astronauts, similar to 1996.
 
@@ -112,4 +116,22 @@ The following Power BI features were incorporated.
 
 
 
+![Astronauts_page-0008](https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/assets/143477687/a7c9c23f-f12c-4065-8b68-4c70dc97b2dc)
 
+👉 **US Naval Academy** has produced maximum Astronauts of 12.
+
+👉  Majority of the Astronauts are graduated in  Aeronautical Engineering followed  by Aerospace, Mechanical Engineering, Medicine.
+
+
+
+-----
+
+
+**NASA ASTRONAUTS Dashboard**
+
+(https://github.com/soma-ramesh/Exploratory-Data-Analysis-of-NASA-Astronauts/blob/main/Astronaut.pbix)
+
+-----
+
+
+# Thank you
