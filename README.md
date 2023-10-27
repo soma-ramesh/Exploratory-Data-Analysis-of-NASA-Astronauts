@@ -36,7 +36,7 @@ The following Power BI features were incorporated.
 
 ---
 
-## DAX 
+## DAX:
 
 1. **Total Astronauts** = COUNT(astronauts_Kaggle[Name])
 2. **Male** = CALCULATE(COUNT(astronauts_Kaggle[Name]), (astronauts_Kaggle[Gender] = "Male"))
